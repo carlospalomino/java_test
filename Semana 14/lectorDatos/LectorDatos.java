@@ -1,4 +1,4 @@
-package semana_14.lectorDatos;
+package Semana_14.lectorDatos;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -38,7 +38,7 @@ public class LectorDatos {
                 numero = scanner.nextDouble();
                 entradaValida = true;
             } catch (InputMismatchException e) {
-                System.out.println("Entrada no válida. Por favor, ingrese un número válido.");
+                System.out.println("Entrada no válida. Por favor, ingrese un número Double.");
                 scanner.nextLine(); // Limpiar el búfer del teclado
             }
         } while (!entradaValida);

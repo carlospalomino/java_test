@@ -1,4 +1,4 @@
-package semana_14.comprobantePago;
+package Semana_14.comprobantePago;
 
 public class ComprobantePago {
 
@@ -37,7 +37,7 @@ public class ComprobantePago {
         }
 
         igv = subtotal * _PORCENTAJE_IGV_;
-        total = subtotal / igv * 100.0;
+        total = (subtotal / igv )* 100.0;
     }
 
 }

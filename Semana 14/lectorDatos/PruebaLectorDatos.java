@@ -1,4 +1,4 @@
-package semana_14.lectorDatos;
+package Semana_14.lectorDatos;
 
 public class PruebaLectorDatos {
     public static void main(String[] args) {

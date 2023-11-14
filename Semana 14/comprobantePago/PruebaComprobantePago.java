@@ -1,4 +1,4 @@
-package semana_14.comprobantePago;
+package Semana_14.comprobantePago;
 
 
 public class PruebaComprobantePago {

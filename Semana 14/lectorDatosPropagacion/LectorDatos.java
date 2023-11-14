@@ -1,4 +1,4 @@
-package semana_14.lectorDatosPropagacion;
+package Semana_14.lectorDatosPropagacion;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
